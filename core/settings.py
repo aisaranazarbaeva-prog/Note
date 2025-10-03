@@ -40,6 +40,9 @@ INSTALLED_APPS = [
     'rest_framework',
     'task',
     'note',
+    'news',
+    'contact',
+    'videos',
 ]
 
 MIDDLEWARE = [
